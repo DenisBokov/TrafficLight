@@ -33,7 +33,7 @@ class MainViewController: UIViewController {
     }
     
     
-    @IBAction func startingTrafficLigth(_ sender: Any) {
+    @IBAction func startingTrafficLigth() {
         
         startButton.setTitle("NEXT", for: .normal)
         
